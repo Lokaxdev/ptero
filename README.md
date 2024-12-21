@@ -8,3 +8,6 @@
 ```
 bash <(curl -s https://raw.githubusercontent.com/Lokaxdev/ptero/refs/heads/main/lokaxdev)
 ```
+
+**HERE IS THE V2**
+https://github.com/Lokaxdev/PteroV2
